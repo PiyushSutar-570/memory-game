@@ -1,3 +1,30 @@
+Memory Game 🃏
+
+A fun and interactive memory card game built with React and Vite, featuring dynamic card flipping, score tracking, and smooth animations. Designed for a responsive and modern web experience.
+
+Live Demo: https://memory-game-rose-tau.vercel.app/
+
+🚀 Features
+
+Flip and match cards with smooth animations
+
+Track attempts and scores in real-time
+
+Responsive design for all screen sizes
+
+Built with React + Vite for fast performance
+
+Hosted on Vercel
+
+🛠️ Tech Stack
+
+Frontend: React, Vite, CSS
+
+Deployment: Vercel
+
+📚 Credits
+
+Built and customized by Piyush Sutar.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
