@@ -95,7 +95,7 @@ const App = () => {
 
       {/* Author */}
       <div className='text-white text-xl sm:text-4xl font-semibold text-center'>
-        Made by @Piyush
+        Made by @xyz
       </div>
 
       {/* Grid */}
